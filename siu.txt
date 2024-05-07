@@ -7,4 +7,5 @@ clase de lenguaje de programacion2
 mi galactico 
 
 cambiando
-altoke
+altokecoment
+comennt
